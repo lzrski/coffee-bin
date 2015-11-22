@@ -138,7 +138,10 @@ console.log("Hello, I'm a coffee bin :)");
 
 It works :)
 
+See also a real project that uses this trick: [lzrski/npm-git-install][npm-git-install].
+
 [shebang]:  https://en.wikipedia.org/wiki/Shebang_(Unix)
 [publish]:  https://docs.npmjs.com/getting-started/publishing-npm-packages
 [issue]:    https://github.com/jashkenas/coffeescript/issues/2215
 [iife]:      http://benalman.com/news/2010/11/immediately-invoked-function-expression/
+[npm-git-install]: https://github.com/lzrski/npm-git-install
