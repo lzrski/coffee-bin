@@ -1,0 +1,14 @@
+{
+  "name": "coffee-bin",
+  "version": "1.0.0",
+  "description": "Supplement material for Compiling executables from CoffeeScript post",
+  "main": "index.js",
+  "bin": {
+    "myapp": "cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tadeusz Łazurski (http://lazurski.pl/)",
+  "license": "GPL3"
+}
