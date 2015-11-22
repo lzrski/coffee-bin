@@ -29,6 +29,12 @@ or if you [publish it to npm repository][publish], then anybody can install it l
 npm install --global coffee-bin
 ```
 
+It will install the `myapp` command on the system, that one can execute on the command line, just like that:
+
+```sh
+myapp
+```
+
 With CoffeeScript
 -----------------
 
